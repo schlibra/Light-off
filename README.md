@@ -1,7 +1,7 @@
 # **关闭所有灯**
 
 ### apk下载地址：
-#### [下载](https://www.lanzous.com/tp/i4t72yb)
+#### [下载](https://www.lanzous.com/tp/i4tnuvc)
 ###### [求解程序](https://www.lanzous.com/tp/i4t2taj)
 #### 玩法说明
 1. 点击圆块，这个圆块和周围四个圆块的颜色将会改变。
